@@ -3,10 +3,15 @@
 ## I'm a Competitive programmer, Web Developer, open source contributor, and a student!!
 
 👉 Open source contributor @Devs-nest 💠
+<br/>
 👉 3🌟 on codechef 👶
+<br/>
 👉 Tech stack: HTML, CSS, JavaScript, MySQL, Spring Boot 🧢
+<br/>
 👉 Computer vision/Machine Learning enthusiast 🕶️
+<br/>
 👉 2021 goal: Become a DSA and front-end pro 🥇
+<br/>
 
 ### Connect with me:
 
