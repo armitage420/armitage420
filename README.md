@@ -6,7 +6,7 @@
 <br/>
 👉 3🌟 on codechef 👶
 <br/>
-👉 Tech stack: HTML, CSS, JavaScript, MySQL, Spring Boot 🧢
+👉 Tech stack: HTML, CSS, JavaScript, MySQL, Spring Boot, Deep Learning, Machine Learning 🧢
 <br/>
 👉 Computer vision/Machine Learning enthusiast 🕶️
 <br/>
