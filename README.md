@@ -1,17 +1,12 @@
 ### Hi there, I'm Araika aka NZEC aka NonZeroExitCode👋
 
-## I'm a Competitive programmer, Web Developer, open source contributor, and a student!!
+## I love to build new systems and explore new tech!!
 
 👉 Open source contributor @Devs-nest 💠
 <br/>
-👉 3🌟 on codechef 👶
+👉 Areas I have explored: HTML, CSS, JavaScript, React, MySQL, Spring Boot, Deep Learning, Machine Learning 🧢
 <br/>
-👉 Tech stack: HTML, CSS, JavaScript, MySQL, Spring Boot, Deep Learning, Machine Learning 🧢
-<br/>
-👉 Computer vision/Machine Learning enthusiast 🕶️
-<br/>
-👉 2021 goal: Become a DSA and front-end pro 🥇
-<br/>
+
 
 ### Connect with me:
 
