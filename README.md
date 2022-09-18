@@ -1,9 +1,7 @@
-### Hi there, I'm Araika aka NZEC aka NonZeroExitCode👋
+### Hi there, I'm NZEC aka NonZeroExitCode👋
 
 ## I love to build new systems and explore new tech!!
 
-👉 Open source contributor @Devs-nest 💠
-<br/>
 👉 Areas I have explored: HTML, CSS, JavaScript, React, MySQL, Spring Boot, Deep Learning, Machine Learning 🧢
 <br/>
 
@@ -11,8 +9,6 @@
 ### Connect with me:
 
 [<img align="left" alt="armitage420 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Araika Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br/>
 
 ### Languages and Tools:
@@ -29,4 +25,3 @@
 <br />
 
 [twitter]: https://twitter.com/armitage420
-[linkedin]: https://linkedin.com/in/araikasingh
